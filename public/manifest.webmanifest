@@ -1,0 +1,16 @@
+{
+  "name": "PrepTrack CMR",
+  "short_name": "PrepTrack",
+  "description": "Academic deadline tracker for students in Cameroon. Works offline.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F9FB",
+  "theme_color": "#2563EB",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
